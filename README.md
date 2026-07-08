@@ -1,2 +1,9 @@
-# Mechanical-Design-Prototype
-Preliminary mechanical design of a simple robotic prototype, including body structure, leg design, joints, and stability considerations.
+# Mechanical Design Prototype
+
+This repository contains the solution for the first mechanical design task, which focuses on the preliminary design of a simple robotic dog prototype.
+
+## Contents
+- Mechanical design report (PDF)
+- 3D model file
+
+The project covers the body structure, leg design, joints, motor selection, torque calculation, stability, and proposed walking method.
