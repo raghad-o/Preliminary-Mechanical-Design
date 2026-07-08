@@ -1,6 +1,6 @@
 # Preliminary-Mechanical-Design
 
-This repository contains the solution for the first mechanical design task, which focuses on the preliminary design of a simple robotic dog prototype.
+This repository contains the solution for the first mechanical design task, which focuses on the preliminary mechanical design of a simple robotic dog.
 
 ## Contents
 - Mechanical design report (PDF)
