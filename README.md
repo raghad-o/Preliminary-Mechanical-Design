@@ -1,9 +1,10 @@
 # Preliminary-Mechanical-Design
 
-This repository contains the solution for the first mechanical design task, which focuses on the preliminary mechanical design of a simple robotic dog.
+This repository contains the preliminary mechanical design of a simple robotic dog, including the body structure, leg design, joints, motor selection, a preliminary knee joint torque calculation, stability and center of gravity considerations, proposed walking method, and expected mechanical problems.
+
+The complete design document, including detailed explanations, calculations, and sketches, is provided in the PDF file.
 
 ## Contents
-- Design Document (PDF)
-- 3D model file
 
-The project covers the body structure, leg design, joints, motor selection, torque calculation, stability, and proposed walking method.
+- Mechanical Design Document (PDF) — Includes Arabic and English versions
+- 3D Model (STL)
