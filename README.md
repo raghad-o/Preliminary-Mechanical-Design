@@ -8,3 +8,4 @@ The complete design document, including detailed explanations, calculations, and
 
 - Mechanical Design Document (PDF) — Includes Arabic and English versions
 - 3D Model (STL)
+- - 3D Model (GLB)
