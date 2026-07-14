@@ -4,10 +4,14 @@ This repository contains the preliminary mechanical design of a simple robotic d
 
 The complete design document, including detailed explanations, calculations, and sketches, is provided in the PDF file.
 
+## Repository Contents
+
+- `Mechanical_Design_Document.pdf` — Complete design document (Arabic and English versions)
+- `3D_Model.stl` — 3D model file
+- `3D_Model.glb` — Colored 3D model file
+- `Design` folder — Contains the English design README, sketches, and design images
+
 ## Design Folder Contents
 
-* `README.md` — Project overview and design documentation
-* `Mechanical_Design_Document.pdf` — Complete design document (Arabic and English)
-* `Sketch & Design` — Design sketches and images
-* `3D_Model.stl`
-* `3D_Model.glb`
+- `README.md` — English version of the design details
+- `Sketch & Design` — Design sketches and images
